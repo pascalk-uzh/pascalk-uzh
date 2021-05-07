@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pascalk-uzh
+- 👋 Hi, I’m Pascal Kubli
 - 👀 I’m interested in Mass Media & Communication Science, Data Science, Technology, Cryptocurrencies and Politics.
 - 🌱 I’m currently learning Python as well as building interactive dashboards with Shiny.
 - 💞️ I’m looking to collaborate on any releveant project related to my above-mentioned interests.
