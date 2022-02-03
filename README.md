@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Pascal Kubli
-- 👀 I’m interested in Mass Media & Communication Science, Data Science, Technology, Cryptocurrencies and Politics.
-- 🌱 I’m currently learning Python as well as building interactive dashboards with Shiny.
-- 💞️ I’m looking to collaborate on any releveant project related to my above-mentioned interests.
-- 📫 How to reach me directly on GitHub or on LinkedIn (https://bit.ly/3uGrGNL).
+Hi there,
+I’m interested in Mass Media & Communication Science, Data Analysis, Text-Mining & NLP, Cryptocurrencies as well as Politics.
 
 <!---
 pascalk-uzh/pascalk-uzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
